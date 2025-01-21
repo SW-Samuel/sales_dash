@@ -1,3 +1,5 @@
+![enter image description here](https://github.com/SW-Samuel/sales_dash/blob/main/dashboard_sales.png)
+
 # Sales Analysis Dash
 
 Dashboard para análise de métricas e vendas de um call center feito com Python.
